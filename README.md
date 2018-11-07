@@ -4,7 +4,7 @@ Andrew Ng's [Machine Learning Course](https://www.coursera.org/learn/machine-lea
 This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: 
 * Week 1: Introduction (no programming assignment)
 * Week 2: [Linear Regression with Multiple Variables](https://github.com/LihaoWang1991/machine-learning-course/tree/master/machine-learning-ex1)
-* Week 3: [Logistic Regression] (https://github.com/LihaoWang1991/machine-learning-course/tree/master/machine-learning-ex2)
+* Week 3: [Logistic Regression](https://github.com/LihaoWang1991/machine-learning-course/tree/master/machine-learning-ex2)
 * Week 4: [Neural Networks: Representation](https://github.com/LihaoWang1991/machine-learning-course/tree/master/machine-learning-ex3)
 * Week 5: [Neural Networks: Learning](https://github.com/LihaoWang1991/machine-learning-course/tree/master/machine-learning-ex4)
 * Week 6: [Advice for Applying Machine Learning](https://github.com/LihaoWang1991/machine-learning-course/tree/master/machine-learning-ex5)
