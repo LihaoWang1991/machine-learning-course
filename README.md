@@ -1,2 +1,2 @@
 # machine-learning-course
-Andrew Ng's machine learning course programming assignments
+Andrew Ng's [Machine Learning Course](https://www.coursera.org/learn/machine-learning).  programming assignments
