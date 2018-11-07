@@ -1,5 +1,5 @@
 # machine-learning-course
-This repository contains the programming assignments I have completed in Andrew Ng's [Machine Learning Course](https://www.coursera.org/learn/machine-learning). 
+This repository contains the programming assignments I have completed in Andrew Ng's course [Machine Learning](https://www.coursera.org/learn/machine-learning). 
 
 This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: 
 * Week 1: Introduction (no programming assignment)
